@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+telebot
+pdfminer.six
+nltk
+scikit-learn
+unicodedata
+json
+os
+re
+numpy
